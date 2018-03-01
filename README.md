@@ -1,13 +1,12 @@
-# BY Blog
+# YF Blog
 
-> 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
+> 博客出自于 **[Hux](https://github.com/Huxpro/huxpro.github.io)** 。
 > 
-> 更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 
+> 感谢**柏荧**更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) ,我也是通过该教程初步搭建个人博客。
 > 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
+### [我的博客在这里 &rarr;](http://youngfun.top)
 
-![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
-
+以下为柏荧的教程，供参考学习
 
 ## 使用
 
